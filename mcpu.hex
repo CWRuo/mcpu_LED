@@ -22,8 +22,8 @@ C3 // 13,C3      JCC L3
 63 // 15,63      ADD #80h
 68 // 16,68      ADD R2
 A8 // 17,A8      STA R2
-C0 // 18,C3      JCC L4
-C0 // 19,C3      JCC L4
+C0 // 18,C0      JCC L4
+C0 // 19,C0      JCC L4
 
 00 00
 00 00

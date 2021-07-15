@@ -1,0 +1,13 @@
+To, Location
+
+//IO Pin Set
+Q0,  PIN_105
+Q1,  PIN_104
+//O3,  PIN_103
+//O4,  PIN_34
+clk, PIN_91
+//IN1, PIN_76, Normal High
+rst, PIN_76
+IN2, PIN_75
+//IN3, PIN_74
+//IN4, PIN_73

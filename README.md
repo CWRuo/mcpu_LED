@@ -8,6 +8,6 @@ compatible with http://piswords.com/alteraep4ce6e.html
 
 Power cosumption is 45.1mA, or 49.5mA when USB BLASTER connected.
 
-Total logic elements using 72 on EP4CE22C8. 
+It use 72 logic elements on EP4CE22C8. 
 
 GPL License.
